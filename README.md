@@ -1,9 +1,7 @@
-# firstProject
+# Web sitesi single page
 
-<h1>use<h1>
+<h1>HTML5-CSS3-BOOTSTRAP kullanilarak olusturuldu.<h1>
 
-HTML5 and CSS3
 
-BOOTSTRAP
 
 ![](firstt.gif)
